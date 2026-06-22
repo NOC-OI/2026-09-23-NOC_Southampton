@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "National Oceanography Centre - Southampton"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Seminar Room, Library Red Room and Library Blue Room, National Oceanography Centre, European Way, Southampton, SO14 3ZH"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "Conference Room and the Library Red Room, National Oceanography Centre, European Way, Southampton, SO14 3ZH"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "50.8930098"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -121,10 +121,10 @@ Specifically, the workshop will include:
     <li>Cloud-based computing resources for training and running models. Depending on interest, the compute will be provisioned either on the Data Science Platform or on JASMIN.</li> 
 </p>
 <p>
-We expect to run the course from 0930 to 1700 on the 23rd and 24th with a two-hour lunch break from 1200-1400. Instructors will additionally be available until 1200 on the 25th before the open staff meeting to help participants finish their work or prepare to deploy model training routines on JASMIN. Ideally, participants will clear their schedule or move critical meetings to the long lunch breaks for the two full days of the workshop. To get the most out of the time, everyone should plan to focus on the course as much as possible.  
+We expect to run the course from 0930 to 1700 on the 23rd and 24th with a two-hour lunch break from 1200-1400. Ideally, participants will clear their schedule or move critical meetings to the long lunch breaks for the two full days of the workshop. To get the most out of the time, everyone should plan to focus on the course as much as possible.  
 </p>
 <p>
-If you are interested in participating, please register by close of play on the 14th September. If there are no tickets left, please get in contact.
+If you are interested in participating, please register by 08:30 on the 14th September. If there are no tickets left, please get in contact.
 </p>
 <p>
 Check out <a href="https://github.com/CV4EcologySchool/ct_classifierCV4E">ct_classifier</a> repo and <a href="https://github.com/eor314/pogo_bioobs19_imaging">POGO imaging course</a> to get a sense of the material we will cover. 
